@@ -1388,16 +1388,6 @@ Write, compile, and run your code within a browser. Try it out!
 + [English](more/free-programming-playgrounds.md)
 + [German / Deutsch](more/free-programming-playgrounds-de.md)
 
-## Translations
-
-Volunteers have translated many of our Contributing, How-to, and Code of Conduct documents into languages covered by our lists.
-
-+ English
-  + [Code of Conduct](docs/CODE_OF_CONDUCT.md)
-  + [Contributing](docs/CONTRIBUTING.md)
-  + [How-to](docs/HOWTO.md)
-+ ... *[More languages](docs/README.md#translations)* ...
-
 ## License
 
 Each file included in this repository is licensed under the [CC BY License](LICENSE).
