@@ -1,0 +1,152 @@
+[11:46:34.348] [INF] Using Nitrox Alpha V1.7.1.0 built on 14/06/2025 14:26:02
+[11:46:34.963] [INF] Registering dependencies
+[11:46:35.086] [INF] Patching Subnautica...
+[11:46:35.361] [INF] Completed patching
+[11:46:35.361] [INF] Applying Nitrox behaviours..
+[11:46:35.362] [INF] [Discord] Starting Discord client
+[11:46:35.422] [INF] Behaviours applied.
+[11:46:37.045] [ERR-UNITY] Material doesn't have a texture property '_MainTex'
+[11:46:37.045] [ERR-UNITY] Material doesn't have a texture property '_MainTex'
+[11:46:37.956] [INF] Searching for LAN servers...
+[11:46:38.165] [INF] Found LAN server at 192.168.18.190:11000.
+[11:48:42.671] [INF] Initializing MultiplayerSessionManager...
+[11:48:42.675] [INF] Multiplayer client loaded…
+[11:48:42.904] [INF] Initializing LiteNetLibClient...
+[11:48:42.919] [INF] Connected to server
+[11:48:42.934] [INF] Requesting session policy info…
+[11:48:42.970] [INF] Processing session policy information.
+[11:48:42.970] [INF] Waiting for user input…
+[11:51:19.363] [INF] Disconnected from server
+[11:51:46.902] [INF] Initializing MultiplayerSessionManager...
+[11:51:46.902] [INF] Multiplayer client loaded…
+[11:51:46.902] [INF] Initializing LiteNetLibClient...
+[11:51:46.905] [INF] Connected to server
+[11:51:46.918] [INF] Requesting session policy info…
+[11:51:46.934] [INF] Pro[11:52:47.599] [INF] Initializing MultiplayerSessionManager...
+[11:52:47.609] [INF] Multiplayer client loaded…
+[11:52:47.[11:52:51.588] [INF] Init body prototype RemotePlayerPrototype
+[11:52:53.911] [INF] Processed a Time Change [from 480,087820999324 to 480,375]
+[11:52:53.952] [INF] Running NitroxClient.GameLogic.InitialSync.CyclopsInitialAsyncProcessor
+[11:52:53.956[11:52:58.610] [INF] Launching game…
+[11:53:08.584] [INF] Init body prototype RemotePlayerPrototype
+[11:53:11.093] [INF] Processed a Time Change [from 480,052243798971 to 497,57]
+[11:53:11.148] [INF] Running NitroxClient.GameLogic.InitialSync.CyclopsInitialAsyncProcessor
+[11:53:11.159] [INF] Running NitroxClient.GameLogic.InitialSync.EscapePodInitialSyncProcessor
+[11:53:11.178] [INF] Running NitroxClient.GameLogic.InitialSync.GlobalRootInitialSyncProcessor
+[11:53:11.179] [INF] Received initial sync packet with 0 global root entities
+[11:53:11.210] [INF] Running NitroxClient.GameLogic.InitialSync.PdaInitialSyncProcessor
+[11:53:11.211] [INF] Received initial sync packet with 0 encyclopedia entries
+[11:53:11.218] [INF] PDAEntryComplete: New added: 0, Total: 4
+[11:53:11.232] [INF] Received initial sync packet with 0 KnownTech.knownTech types and 0 KnownTech.analyzedTech types.
+[11:53:11.237] [INF] Received initial sync packet with 0 pda log entries
+[11:53:11.247] [INF] Received initial sync packet with 0 cached progress entries
+[11:53:11.265] [INF] Running NitroxClient.GameLogic.InitialSync.PlayerInitialSyncProcessor
+[11:53:11.280] [INF] Received initial sync player GameObject Id: c81203a5-b13f-45d7-af43-0f97d7744c71
+[11:53:11.507] [INF] Received initial sync packet with gamemode SURVIVAL
+[11:53:11.518] [INF] Running NitroxClient.GameLogic.InitialSync.StoryGoalInitialSyncProcessor
+[11:53:11.518] [INF] Received initial sync packet with 0 completed story goals
+[11:53:11.522] [INF] Radio queue: []
+[11:53:11.571] [INF] Running NitroxClient.GameLogic.InitialSync.BuildingInitialSyncProcessor
+[11:53:11.572] [INF] Received initial sync packet with 0 base pieces
+[11:53:11.580] [INF] Running NitroxClient.GameLogic.InitialSync.VehicleInitialSyncProcessor
+[11:53:11.581] [INF] Recieved initial sync with 0 non-cyclops vehicles
+[11:53:11.594] [INF] Running NitroxClient.GameLogic.InitialSync.BasePieceMetadataInitialSyncProcessor
+[11:53:11.595] [INF] Received initial sync packet having 0 base pieces with meta data
+[11:53:11.621] [INF] Running NitroxClient.GameLogic.InitialSync.PlayerPositionInitialSyncProcessor
+[11:53:13.545] [INF] Running NitroxClient.GameLogic.InitialSync.RemotePlayerInitialSyncProcessor
+[11:53:14.593] [INF] Running NitroxClient.GameLogic.InitialSync.SimulationOwnershipInitialSyncProcessor
+[11:53:14.612] [INF] Running NitroxClient.GameLogic.InitialSync.EquippedItemInitialSyncProcessor
+[11:53:14.612] [INF] Recieved initial sync with 0 pieces of equipped items
+[11:53:14.622] [INF] Running NitroxClient.GameLogic.InitialSync.InventoryItemsInitialSyncProcessor
+[11:53:14.675] [INF] Received initial sync with 6 inventory items
+[11:53:14[11:54:16.229] [INF] [Discord] Shutdown client
+alSync.PlayerModulesInitialSyncProcessor
+[11:53:14.690] [INF] Running NitroxClient.GameLogic.InitialSync.PlayerPreferencesInitialSyncProcessor
+[11:53:14.704] [INF] Running NitroxClient.GameLogic.InitialSync.StorageSlotsInitialSyncProcessor
+[11:54:15.245] [INF] PiolhaSeca disconnected
+[11:54:24.251] [INF] [Discord] Shutdown client
+[11:57:54.902] [INF] Using Nitrox Alpha V1.7.1.0 built on 14/06/2025 14:26:02
+[11:57:55.007] [INF] Registering dependencies
+[11:57:55.062] [INF] Patching Subnautica...
+[11:57:55.297] [INF] Completed patching
+[11:57:55.297] [INF] Applying Nitrox behaviours..
+[11:57:55.299] [INF] [Discord] Starting Discord client
+[11:57:55.312] [INF] Behaviours applied.
+[11:57:56.568] [ERR-UNITY] Material doesn't have a texture property '_MainTex'
+[11:57:56.569] [ERR-UNITY] Material doesn't have a texture property '_MainTex'
+[11:57:57.051] [INF] Searching for LAN servers...
+[11:57:57.162] [INF] Found LAN server at 192.168.18.190:11000.
+[11:58:21.268] [INF] [Discord] Shutdown client
+[11:58:32.722] [INF] Using Nitrox Alpha V1.7.1.0 built on 14/06/2025 14:26:02
+[11:58:32.830] [INF] Registering dependencies
+[11:58:32.886] [INF] Patching Subnautica...
+[11:58:33.116] [INF] Completed patching
+[11:58:33.116] [INF] Applying Nitrox behaviours..
+[11:58:33.117] [INF] [Discord] Starting Discord client
+[11:58:33.131] [INF] Behaviours applied.
+[11:58:34.383] [ERR-UNITY] Material doesn't have a texture property '_MainTex'
+[11:58:34.384] [ERR-UNITY] Material doesn't have a texture property '_MainTex'
+[11:58:34.860] [INF] Searching for LAN servers...
+[11:58:34.968] [INF] Found LAN server at 192.168.18.190:11000.
+[11:58:56.815] [INF] Initializing MultiplayerSessionManager...
+[11:58:56.822] [INF] Multiplayer client loaded…
+[11:58:57.042] [INF] Initializing LiteNetLibClient...
+[11:58:57.057] [INF] Connected to server
+[11:58:57.078] [INF] Requesting session policy info…
+[11:58:57.107] [INF] Processing session policy information.
+[11:58:57.108] [INF] Waiting for user input…
+[11:59:50.536] [INF] Disconnected from server
+[11:59:58.782] [ERR-UNITY] Material doesn't have a texture property '_MainTex'
+[12:00:15.377] [INF] Initializing MultiplayerSessionManager...
+[12:00:15.377] [INF] Multiplayer client loaded…
+[12:00:15.377] [INF] Initializing LiteNetLibClient...
+[12:00:15.379] [INF] Connected to server
+[12:00:15.391] [INF] Requesting session policy info…
+[12:00:15.403] [INF] Processing session policy information.
+[12:00:15.403] [INF] Waiting for user input…
+[12:00:20.242] [INF] Launching game…
+[12:00:30.089] [INF] Init body prototype RemotePlayerPrototype
+[12:00:32.608] [INF] Process[12:00:53.379] [INF] Initializing MultiplayerSessionManager...
+[12:00:53.392] [INF] Multiplayer client loaded…
+[12:00:53.639] [INF] Initializing LiteNetLibClient...
+[12:00:54.172] [INF] Connected to server
+[12:00:54.193] [INF] Requesting session policy info…
+[12:00:54.205] [INF] Processing session policy information.
+[12:00:54.205] [INF] Waiting for user input…
+[12:00:56.538] [INF] Launching game…
+[12:01:06.409] [INF] Init body prototype RemotePlayerPrototype
+[12:01:09.078] [INF] Processed a Time Change [from 480,056855998933 to 606,929]
+[12:01:09.115] [INF] Running NitroxClient.GameLogic.InitialSync.CyclopsInitialAsyncProcessor
+[12:01:09.126] [INF] Running NitroxClient.GameLogic.InitialSync.EscapePodInitialSyncProcessor
+[12:01:09.153] [INF] Running NitroxClient.GameLogic.InitialSync.GlobalRootInitialSyncProcessor
+[12:01:09.153] [INF] Received initial sync packet with 0 global root entities
+[12:01:09.185] [INF] Running NitroxClient.GameLogic.InitialSync.PdaInitialSyncProcessor
+[12:01:09.185] [INF] Received initial sync packet with 0 encyclopedia entries
+[12:01:09.193] [INF] PDAEntryComplete: New added: 0, Total: 4
+[12:01:09.207] [INF] Received initial sync packet with 0 KnownTech.knownTech types and 0 KnownTech.analyzedTech types.
+[12:01:09.213] [INF] Received initial sync packet with 1 pda log entries
+[12:01:09.219] [INF] Received initial sync packet with 0 cached progress entries
+[12:01:09.238] [INF] Running NitroxClient.GameLogic.InitialSync.PlayerInitialSyncProcessor
+[12:01:09.255] [INF] Received initial sync player GameObject Id: 83fd13d4-7e8d-4238-b222-32e22d6bc53e
+[12:01:09.474] [INF] Received initial sync packet with gamemode SURVIVAL
+[12:01:09.485] [INF] Running NitroxClient.GameLogic.InitialSync.StoryGoalInitialSyncProcessor
+[12:01:09.485] [INF] Received initial sync packet with 2 completed story goals
+[12:01:09.488] [INF] Radio queue: []
+[12:01:09.536] [INF] Running NitroxClient.GameLogic.InitialSync.BuildingInitialSyncProcessor
+[12:01:09.537] [INF] Received initial sync packet with 0 base pieces
+[12:01:09.553] [INF] Running NitroxClient.GameLogic.InitialSync.VehicleInitialSyncProcessor
+[12:01:09.555] [INF] Recieved initial sync with 0 non-cyclops vehicles
+[12:01:09.570] [INF] Running NitroxClient.GameLogic.InitialSync.BasePieceMetadataInitialSyncProcessor
+[12:01:09.570] [INF] Received initial sync packet having 0 base pieces with meta data
+[12:01:09.587] [INF] Running NitroxClient.GameLogic.InitialSync.PlayerPositionInitialSyncProcessor
+[12:01:10.270] [INF] Running NitroxClient.GameLogic.InitialSync.RemotePlayerInitialSyncProcessor
+[12:01:11.917] [INF] Running NitroxClient.GameLogic.InitialSync.SimulationOwnershipInitialSyncProcessor
+[12:01:11.954] [INF] Running NitroxClient.GameLogic.InitialSync.EquippedItemInitialSyncProcessor
+[12:01:11.955] [INF] Recieved initi[12:01:31.852] [INF] [Discord] Shutdown client
+11.969] [INF] Running NitroxClient.GameLogic.InitialSync.InventoryItemsInitialSyncProcessor
+[12:01:12.127] [INF] Received initial sync with 12 inventory items
+[12:01:12.127] [INF] Running NitroxClient.GameLogic.InitialSync.PlayerModulesInitialSyncProcessor
+[12:01:12.165] [INF] Running NitroxClient.GameLogic.InitialSync.PlayerPreferencesInitialSyncProcessor
+[12:01:12.180] [INF] Running NitroxClient.GameLogic.InitialSync.StorageSlotsInitialSyncProcessor
+[12:01:31.299] [INF] PiolhoSeco disconnected
+[12:01:33.075] [INF] [Discord] Shutdown client

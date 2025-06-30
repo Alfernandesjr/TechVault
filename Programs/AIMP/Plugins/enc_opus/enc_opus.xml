@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<encoders generator="AIMP" version="1000" name="OPUS Encoder v0.2-34" author="Artem Izmaylov" info="Using the opusenc utility (http://opus-codec.org/)">
+	<encoder Name="Opus" App="opusenc.exe">
+		<description>
+			<inputformats type="autogen">
+				<autogen SampleRates="48000" SampleFormats="16" Channels="1;2;4;6;8" />
+			</inputformats>
+			<property name="Ext" value=".opus" />
+			<property name="IgnoreLength" value="true"/>
+		</description>
+		<presets>
+			<preset name="Default" cmdparams="--bitrate %bitrate% %mode% --ignorelength - %output%">
+				<var name="Mode" cmdparams="%mode%">
+					<val name="CBR" cmdparams="--hard-cbr"/>
+					<val name="VBR" cmdparams="--vbr"/>
+				</var>
+				<var name="Bitrate" cmdparams="%bitrate%">
+					<val name="~16 kbps" cmdparams="16" />
+					<val name="~24 kbps" cmdparams="24" />
+					<val name="~32 kbps" cmdparams="32" />
+					<val name="~40 kbps" cmdparams="40" />
+					<val name="~48 kbps" cmdparams="48" />
+					<val name="~56 kbps" cmdparams="56" />
+					<val name="~64 kbps" cmdparams="64" />
+					<val name="~80 kbps" cmdparams="80" />
+					<val name="~96 kbps" cmdparams="96" />
+					<val name="~112 kbps" cmdparams="112" />
+					<val name="~128 kbps" cmdparams="128" default="1" />
+					<val name="~144 kbps" cmdparams="144" />
+					<val name="~160 kbps" cmdparams="160" />
+					<val name="~192 kbps" cmdparams="192" />
+					<val name="~224 kbps" cmdparams="224" />
+					<val name="~256 kbps" cmdparams="256" />
+					<val name="~320 kbps" cmdparams="320" />
+					<val name="~360 kbps" cmdparams="360" />
+					<val name="~420 kbps" cmdparams="420" />
+					<val name="~510 kbps" cmdparams="510" />
+				</var>
+			</preset>
+		</presets>
+	</encoder>
+</encoders>

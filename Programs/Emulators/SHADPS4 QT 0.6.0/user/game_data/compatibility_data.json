@@ -1,0 +1,863 @@
+{
+    "CUSA00102": {
+        "os-linux": {
+            "issue_number": 1094,
+            "last_tested": "2025-06-15T19:14:04Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1094",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA00190": {
+        "os-linux": {
+            "issue_number": 1099,
+            "last_tested": "2025-06-15T19:34:03Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1099",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA00314": {
+        "os-linux": {
+            "issue_number": 1096,
+            "last_tested": "2025-06-15T19:24:07Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1096",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA00375": {
+        "os-macOS": {
+            "issue_number": 1103,
+            "last_tested": "2025-06-16T16:37:47Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1103",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA00628": {
+        "os-linux": {
+            "issue_number": 1097,
+            "last_tested": "2025-06-15T19:29:22Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1097",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA00640": {
+        "os-linux": {
+            "issue_number": 1169,
+            "last_tested": "2025-06-24T03:21:17Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1169",
+            "version": "v0.9.0"
+        },
+        "os-macOS": {
+            "issue_number": 1098,
+            "last_tested": "2025-06-15T19:32:40Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1098",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA00834": {
+        "os-macOS": {
+            "issue_number": 1090,
+            "last_tested": "2025-06-15T19:11:26Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1090",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA00940": {
+        "os-windows": {
+            "issue_number": 1107,
+            "last_tested": "2025-06-17T19:14:21Z",
+            "status": "status-playable",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1107",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA01069": {
+        "os-windows": {
+            "issue_number": 1108,
+            "last_tested": "2025-06-18T08:47:48Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1108",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA01200": {
+        "os-linux": {
+            "issue_number": 1133,
+            "last_tested": "2025-06-19T18:07:28Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1133",
+            "version": "v0.9.0"
+        },
+        "os-macOS": {
+            "issue_number": 1145,
+            "last_tested": "2025-06-20T08:01:44Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1145",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA01227": {
+        "os-macOS": {
+            "issue_number": 1085,
+            "last_tested": "2025-06-15T19:08:08Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1085",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA01627": {
+        "os-linux": {
+            "issue_number": 1088,
+            "last_tested": "2025-06-15T19:09:47Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1088",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA01842": {
+        "os-linux": {
+            "issue_number": 1175,
+            "last_tested": "2025-06-26T02:09:49Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1175",
+            "version": "v0.9.0"
+        },
+        "os-macOS": {
+            "issue_number": 1114,
+            "last_tested": "2025-06-19T13:25:44Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1114",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA01843": {
+        "os-macOS": {
+            "issue_number": 1095,
+            "last_tested": "2025-06-15T19:23:38Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1095",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA02002": {
+        "os-linux": {
+            "issue_number": 1100,
+            "last_tested": "2025-06-15T19:35:47Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1100",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA02049": {
+        "os-macOS": {
+            "issue_number": 1086,
+            "last_tested": "2025-06-15T19:09:07Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1086",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA02050": {
+        "os-macOS": {
+            "issue_number": 1147,
+            "last_tested": "2025-06-20T07:59:32Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1147",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA02084": {
+        "os-windows": {
+            "issue_number": 1165,
+            "last_tested": "2025-06-23T10:07:04Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1165",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA02429": {
+        "os-linux": {
+            "issue_number": 1177,
+            "last_tested": "2025-06-26T02:30:01Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1177",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA03041": {
+        "os-macOS": {
+            "issue_number": 1113,
+            "last_tested": "2025-06-19T13:24:31Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1113",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA03131": {
+        "os-linux": {
+            "issue_number": 1188,
+            "last_tested": "2025-06-28T17:32:34Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1188",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA03178": {
+        "os-macOS": {
+            "issue_number": 1139,
+            "last_tested": "2025-06-20T08:06:33Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1139",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA03807": {
+        "os-linux": {
+            "issue_number": 1191,
+            "last_tested": "2025-06-28T21:51:14Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1191",
+            "version": "v0.9.0"
+        },
+        "os-macOS": {
+            "issue_number": 1124,
+            "last_tested": "2025-06-19T14:07:33Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1124",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA03842": {
+        "os-macOS": {
+            "issue_number": 1104,
+            "last_tested": "2025-06-16T17:16:54Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1104",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA03856": {
+        "os-macOS": {
+            "issue_number": 1138,
+            "last_tested": "2025-06-20T08:07:31Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1138",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA03962": {
+        "os-macOS": {
+            "issue_number": 1142,
+            "last_tested": "2025-06-20T08:03:37Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1142",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA04027": {
+        "os-macOS": {
+            "issue_number": 1122,
+            "last_tested": "2025-06-19T13:58:16Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1122",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA04112": {
+        "os-macOS": {
+            "issue_number": 1091,
+            "last_tested": "2025-06-15T19:11:53Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1091",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA04311": {
+        "os-macOS": {
+            "issue_number": 1146,
+            "last_tested": "2025-06-20T08:00:11Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1146",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA04437": {
+        "os-macOS": {
+            "issue_number": 1137,
+            "last_tested": "2025-06-20T08:08:15Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1137",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA04622": {
+        "os-linux": {
+            "issue_number": 1155,
+            "last_tested": "2025-06-25T15:08:27Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1155",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA04647": {
+        "os-macOS": {
+            "issue_number": 1118,
+            "last_tested": "2025-06-19T13:20:54Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1118",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA04885": {
+        "os-macOS": {
+            "issue_number": 1136,
+            "last_tested": "2025-06-19T22:21:56Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1136",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA05042": {
+        "os-linux": {
+            "issue_number": 1178,
+            "last_tested": "2025-06-26T02:44:01Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1178",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA05235": {
+        "os-linux": {
+            "issue_number": 1093,
+            "last_tested": "2025-06-15T19:13:09Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1093",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA05882": {
+        "os-windows": {
+            "issue_number": 1105,
+            "last_tested": "2025-06-16T18:05:05Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1105",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA07023": {
+        "os-macOS": {
+            "issue_number": 1149,
+            "last_tested": "2025-06-21T11:56:03Z",
+            "status": "status-playable",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1149",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA07113": {
+        "os-linux": {
+            "issue_number": 1089,
+            "last_tested": "2025-06-15T19:11:07Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1089",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA07594": {
+        "os-macOS": {
+            "issue_number": 1092,
+            "last_tested": "2025-06-15T19:12:11Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1092",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA07938": {
+        "os-macOS": {
+            "issue_number": 1120,
+            "last_tested": "2025-06-19T13:45:59Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1120",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA08043": {
+        "os-macOS": {
+            "issue_number": 1135,
+            "last_tested": "2025-06-19T21:46:49Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1135",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA08829": {
+        "os-linux": {
+            "issue_number": 1087,
+            "last_tested": "2025-06-15T19:09:28Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1087",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA09193": {
+        "os-macOS": {
+            "issue_number": 1130,
+            "last_tested": "2025-06-19T15:23:15Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1130",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA09290": {
+        "os-macOS": {
+            "issue_number": 1129,
+            "last_tested": "2025-06-19T14:54:02Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1129",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA10771": {
+        "os-linux": {
+            "issue_number": 1179,
+            "last_tested": "2025-06-26T02:53:08Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1179",
+            "version": "v0.9.0"
+        },
+        "os-windows": {
+            "issue_number": 1172,
+            "last_tested": "2025-06-25T21:29:06Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1172",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA10828": {
+        "os-macOS": {
+            "issue_number": 1150,
+            "last_tested": "2025-06-21T11:56:54Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1150",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA11229": {
+        "os-macOS": {
+            "issue_number": 1161,
+            "last_tested": "2025-06-23T03:02:56Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1161",
+            "version": "v0.9.0"
+        },
+        "os-windows": {
+            "issue_number": 1154,
+            "last_tested": "2025-06-21T22:37:24Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1154",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA12031": {
+        "os-macOS": {
+            "issue_number": 1125,
+            "last_tested": "2025-06-19T14:11:11Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1125",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA12564": {
+        "os-linux": {
+            "issue_number": 1182,
+            "last_tested": "2025-06-26T04:02:52Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1182",
+            "version": "v0.9.0"
+        },
+        "os-windows": {
+            "issue_number": 1173,
+            "last_tested": "2025-06-25T21:28:48Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1173",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA12811": {
+        "os-windows": {
+            "issue_number": 1111,
+            "last_tested": "2025-06-18T17:59:17Z",
+            "status": "status-playable",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1111",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA12878": {
+        "os-windows": {
+            "issue_number": 1164,
+            "last_tested": "2025-06-23T10:28:15Z",
+            "status": "status-unknown",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1164",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA12994": {
+        "os-linux": {
+            "issue_number": 1181,
+            "last_tested": "2025-06-26T23:42:14Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1181",
+            "version": "unknown"
+        },
+        "os-macOS": {
+            "issue_number": 1163,
+            "last_tested": "2025-06-23T03:32:40Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1163",
+            "version": "v0.9.0"
+        },
+        "os-windows": {
+            "issue_number": 1159,
+            "last_tested": "2025-06-23T02:30:12Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1159",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA13586": {
+        "os-windows": {
+            "issue_number": 1174,
+            "last_tested": "2025-06-25T21:51:11Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1174",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA14168": {
+        "os-macOS": {
+            "issue_number": 1132,
+            "last_tested": "2025-06-19T17:28:48Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1132",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA14169": {
+        "os-macOS": {
+            "issue_number": 1140,
+            "last_tested": "2025-06-20T08:05:56Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1140",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA14307": {
+        "os-linux": {
+            "issue_number": 1171,
+            "last_tested": "2025-06-25T18:18:03Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1171",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA14898": {
+        "os-linux": {
+            "issue_number": 1168,
+            "last_tested": "2025-06-23T22:01:01Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1168",
+            "version": "v0.9.0"
+        },
+        "os-windows": {
+            "issue_number": 1167,
+            "last_tested": "2025-06-23T19:22:59Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1167",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA15243": {
+        "os-macOS": {
+            "issue_number": 1116,
+            "last_tested": "2025-06-19T13:22:38Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1116",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA15325": {
+        "os-windows": {
+            "issue_number": 1152,
+            "last_tested": "2025-06-21T18:09:39Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1152",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA17922": {
+        "os-linux": {
+            "issue_number": 1180,
+            "last_tested": "2025-06-26T03:35:54Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1180",
+            "version": "v0.9.0"
+        },
+        "os-macOS": {
+            "issue_number": 1121,
+            "last_tested": "2025-06-19T13:50:23Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1121",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA18374": {
+        "os-macOS": {
+            "issue_number": 1144,
+            "last_tested": "2025-06-20T08:02:16Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1144",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA18570": {
+        "os-macOS": {
+            "issue_number": 1117,
+            "last_tested": "2025-06-19T13:21:46Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1117",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA18774": {
+        "os-linux": {
+            "issue_number": 1170,
+            "last_tested": "2025-06-24T03:53:29Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1170",
+            "version": "v0.9.0"
+        },
+        "os-macOS": {
+            "issue_number": 1128,
+            "last_tested": "2025-06-19T14:49:59Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1128",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA20527": {
+        "os-linux": {
+            "issue_number": 1187,
+            "last_tested": "2025-06-28T17:26:40Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1187",
+            "version": "v0.9.0"
+        },
+        "os-macOS": {
+            "issue_number": 1160,
+            "last_tested": "2025-06-23T03:19:38Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1160",
+            "version": "v0.9.0"
+        },
+        "os-windows": {
+            "issue_number": 1158,
+            "last_tested": "2025-06-23T02:16:26Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1158",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA23766": {
+        "os-macOS": {
+            "issue_number": 1123,
+            "last_tested": "2025-06-19T14:03:09Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1123",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA24041": {
+        "os-linux": {
+            "issue_number": 1176,
+            "last_tested": "2025-06-26T02:22:27Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1176",
+            "version": "v0.9.0"
+        },
+        "os-macOS": {
+            "issue_number": 1115,
+            "last_tested": "2025-06-19T13:23:40Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1115",
+            "version": "v0.9.0"
+        },
+        "os-windows": {
+            "issue_number": 1109,
+            "last_tested": "2025-06-18T08:49:51Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1109",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA24473": {
+        "os-macOS": {
+            "issue_number": 1102,
+            "last_tested": "2025-06-16T16:32:06Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1102",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA24919": {
+        "os-linux": {
+            "issue_number": 1189,
+            "last_tested": "2025-06-28T18:04:49Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1189",
+            "version": "v0.9.0"
+        },
+        "os-macOS": {
+            "issue_number": 1141,
+            "last_tested": "2025-06-20T08:04:42Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1141",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA25269": {
+        "os-macOS": {
+            "issue_number": 1162,
+            "last_tested": "2025-06-23T03:13:13Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1162",
+            "version": "v0.9.0"
+        },
+        "os-windows": {
+            "issue_number": 1151,
+            "last_tested": "2025-06-21T15:37:38Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1151",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA27209": {
+        "os-windows": {
+            "issue_number": 1134,
+            "last_tested": "2025-06-19T19:04:50Z",
+            "status": "status-playable",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1134",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA27765": {
+        "os-windows": {
+            "issue_number": 1131,
+            "last_tested": "2025-06-19T16:40:23Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1131",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA29248": {
+        "os-macOS": {
+            "issue_number": 1126,
+            "last_tested": "2025-06-19T14:36:42Z",
+            "status": "status-playable",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1126",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA30579": {
+        "os-linux": {
+            "issue_number": 1190,
+            "last_tested": "2025-06-28T21:11:19Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1190",
+            "version": "v0.9.0"
+        },
+        "os-macOS": {
+            "issue_number": 1143,
+            "last_tested": "2025-06-20T08:02:59Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1143",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA30991": {
+        "os-macOS": {
+            "issue_number": 1127,
+            "last_tested": "2025-06-19T14:42:08Z",
+            "status": "status-nothing",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1127",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA33829": {
+        "os-macOS": {
+            "issue_number": 1082,
+            "last_tested": "2025-06-15T17:01:41Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1082",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA33833": {
+        "os-macOS": {
+            "issue_number": 1083,
+            "last_tested": "2025-06-15T17:10:02Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1083",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA33837": {
+        "os-macOS": {
+            "issue_number": 1084,
+            "last_tested": "2025-06-15T17:17:16Z",
+            "status": "status-boots",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1084",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA33874": {
+        "os-windows": {
+            "issue_number": 1106,
+            "last_tested": "2025-06-17T02:01:41Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1106",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA41307": {
+        "os-windows": {
+            "issue_number": 1153,
+            "last_tested": "2025-06-21T18:30:26Z",
+            "status": "status-menus",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1153",
+            "version": "v0.9.0"
+        }
+    },
+    "CUSA47038": {
+        "os-linux": {
+            "issue_number": 1184,
+            "last_tested": "2025-06-28T01:08:15Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1184",
+            "version": "v0.9.0"
+        },
+        "os-windows": {
+            "issue_number": 1183,
+            "last_tested": "2025-06-28T00:07:37Z",
+            "status": "status-ingame",
+            "url": "https://github.com/shadps4-emu/shadps4-game-compatibility/issues/1183",
+            "version": "v0.9.0"
+        }
+    },
+    "version": 1
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<encoders generator="AIMP" version="1000" name="TAK Encoder v2.3.3" author="Artem Izmaylov" info="Using official takc utility (http://thbeck.de/Tak/Tak.html)">
+	<encoder Name="TAK" App="takc.exe">
+		<description>
+			<inputformats type="autogen">
+				<autogen SampleRates="8000;16000;22050;24000;32000;44100;48000;96000;192000" SampleFormats="8;16;24" Channels="1;2;4;6" />
+			</inputformats>
+			<property name="Ext" value=".tak" />
+		</description>
+		<presets>
+			<preset Name="Compression: Default"     cmdparams="-e -p2  -ihs -v -silent - %output%" />
+			<preset Name="Compression: Recommended" cmdparams="-e -p2m -ihs -v -silent - %output%" default="1" />
+			<preset Name="Compression: High"        cmdparams="-e -p4  -ihs -v -silent - %output%" />
+			<preset Name="Compression: Maximum"     cmdparams="-e -p4m -ihs -v -silent - %output%" />
+		</presets>
+	</encoder>
+</encoders>

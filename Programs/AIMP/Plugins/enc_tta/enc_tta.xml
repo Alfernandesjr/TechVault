@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<encoders generator="AIMP" version="1000" name="The True Audio Encoder" author="Artem Izmaylov" info="Using official TTA encoder (http://tausoft.org/)">
+	<encoder Name="TTA" App="tta.exe">
+		<description>
+			<inputformats type="autogen">
+				<autogen SampleRates="8000;16000;22050;24000;32000;44100;48000;96000;192000" SampleFormats="8;16;24" Channels="1;2;4;6" />
+			</inputformats>
+			<property name="Ext" value=".tta" />
+		</description>
+		<presets>
+			<preset Name="Compression: Default" cmdparams="-e -eb - - %output%" default="1" />
+		</presets>
+	</encoder>	
+	<encoder Name="TTA" App="ttaenc.exe">
+		<description>
+			<inputformats type="autogen">
+				<autogen SampleRates="8000;16000;22050;24000;32000;44100;48000;96000;192000" SampleFormats="8;16;24" Channels="1;2;4;6" />
+			</inputformats>
+			<property name="Ext" value=".tta" />
+			<property name="ID3" value="1" />
+			<property name="RequiresLength" value="1" />
+		</description>
+		<presets>
+			<preset Name="Compression: Default" cmdparams="-e -o %output% -" default="1" />
+		</presets>
+	</encoder>
+</encoders>

@@ -1,0 +1,110 @@
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Tab1 StartNav2 #typed
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:01 Tab1 FinishNav2
+0:00:01 Tab1 PageLoad
+0:00:10 Widget Closed: BubbleDialogDelegateView
+0:00:19 Tab1 BeforeUnload proceed:true
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Tab1 StartNav2 #typed
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:01 Tab1 FinishNav2
+0:00:02 Tab1 PageLoad
+0:00:40 Tab1 StartNav3 #renderer-user #link
+0:00:40 Tab1 FinishNav3
+0:00:45 Widget Closed: BubbleDialogDelegateView
+0:00:51 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Tab1 StartNav2 #typed
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:01 Tab1 FinishNav2
+0:00:01 Tab1 PageLoad
+0:00:30 Tab1 StartNav3 #renderer-user #link
+0:00:30 Tab1 FinishNav3
+0:00:41 Widget Closed: StatusBubble
+0:00:55 Widget Closed: StatusBubble
+0:01:24 Tab1 StartNav4 #typed
+0:01:24 Tab1 FinishNav4
+0:04:26 Widget Closed: StatusBubble
+0:04:42 Tab1 StartNav5 #renderer-user #link
+0:04:42 Tab1 FinishNav5
+0:04:53 Widget Closed: StatusBubble
+0:05:06 Widget Closed: StatusBubble
+0:07:10 Widget Closed: BubbleDialogDelegateView
+0:07:20 Widget Closed: StatusBubble
+0:07:36 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Tab1 StartNav2 #typed
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:00 Tab1 FinishNav2
+0:00:01 Tab1 PageLoad
+0:00:27 Tab1 StartNav3 #renderer-user #link
+0:00:27 Tab1 FinishNav3
+0:00:29 Tab1 StartNav4 #typed
+0:00:29 Tab1 FinishNav4
+0:00:30 Tab1 PageLoad
+0:00:30 Tab1 StartNav5 #typed
+0:00:30 Tab1 FinishNav5
+0:00:31 Tab1 PageLoad
+0:00:32 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Tab1 StartNav2 #typed
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:01 Tab1 FinishNav2
+0:00:01 Tab1 PageLoad
+0:00:08 Tab1 StartNav3 #renderer-user #link
+0:00:08 Tab1 FinishNav3
+0:00:14 Widget Closed: BubbleDialogDelegateView
+0:00:24 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Tab1 StartNav2 #typed
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:00 Tab1 FinishNav2
+0:00:01 Tab1 PageLoad
+0:00:09 Tab1 StartNav3 #renderer-user #link
+0:00:09 Tab1 FinishNav3
+0:00:11 Widget Closed: BubbleDialogDelegateView
+0:00:21 Widget Closed: StatusBubble
+0:00:23 Microsoft.UnloadController.IsUnclosableApp_IsNotWebApp

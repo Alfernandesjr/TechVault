@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<encoders generator="AIMP" version="1000" name="MusePack Encoder v1.30" author="Artem Izmaylov" info="Using the mpcenc utility (https://www.musepack.net/)">
+	<encoder Name="MusePack SV8" App="mpcenc.exe">
+		<description>
+			<inputformats type="autogen">
+				<autogen SampleRates="32000;37800;44100;48000" SampleFormats="16" Channels="1;2" />
+			</inputformats>
+			<property name="Ext" value=".mpc" />
+		</description>
+		<presets>
+			<preset Name="Quality:  0 ( ~20 kbps)"  cmdparams="--silent --xlevel --quality 0 - %output%" />
+			<preset Name="Quality:  1 ( ~30 kbps)"  cmdparams="--silent --xlevel --quality 1 - %output%" />
+			<preset Name="Quality:  2 ( ~60 kbps)"  cmdparams="--silent --xlevel --quality 2 - %output%" />
+			<preset Name="Quality:  3 ( ~90 kbps)"  cmdparams="--silent --xlevel --quality 3 - %output%" />
+			<preset Name="Quality:  4 (~130 kbps)"  cmdparams="--silent --xlevel --quality 4 - %output%" />
+			<preset Name="Quality:  5 (~180 kbps)"  cmdparams="--silent --xlevel --quality 5 - %output%" default="1" />
+			<preset Name="Quality:  6 (~210 kbps)"  cmdparams="--silent --xlevel --quality 6 - %output%" />
+			<preset Name="Quality:  7 (~240 kbps)"  cmdparams="--silent --xlevel --quality 7 - %output%" />
+			<preset Name="Quality:  8 (~270 kbps)"  cmdparams="--silent --xlevel --quality 8 - %output%" />
+			<preset Name="Quality:  9 (~300 kbps)"  cmdparams="--silent --xlevel --quality 9 - %output%" />
+			<preset Name="Quality: 10 (~350 kbps)"  cmdparams="--silent --xlevel --quality 10 - %output%" />
+		</presets>
+	</encoder>
+</encoders>

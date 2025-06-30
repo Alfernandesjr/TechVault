@@ -1,0 +1,278 @@
+{
+  "Title": "",
+  "Notes": "",
+  "Player(s)": 4,
+  "Controller(s)": 3,
+  "K&M": 1,
+  "Use XInput Index": true,
+  "AutoPlay": {
+    "Enabled": false
+  },
+  "Data": [
+    {
+      "PlayerID": 0,
+      "Nickname": "Markaneth",
+      "SteamID": 76561199023125438,
+      "GamepadGuid": "10000000-1000-1000-1000-100000000000",
+      "IsDInput": false,
+      "IsXInput": false,
+      "Processor": {
+        "IdealProcessor": "*",
+        "ProcessorAffinity": "",
+        "ProcessorPriorityClass": "Normal"
+      },
+      "IsKeyboardPlayer": true,
+      "IsRawMouse": false,
+      "HIDDeviceID": [
+        "Not required",
+        "Not required"
+      ],
+      "ScreenPriority": -1228,
+      "ScreenIndex": 1,
+      "EditBounds": {
+        "X": 5.0,
+        "Y": 272.0,
+        "Width": 300.0,
+        "Height": 240.0
+      },
+      "MonitorBounds": {
+        "X": -1280,
+        "Y": 52,
+        "Width": 1280,
+        "Height": 1024
+      },
+      "Owner": {
+        "Type": 0,
+        "UiBounds": {
+          "X": 5.0,
+          "Y": 272.0,
+          "Width": 300.0,
+          "Height": 240.0
+        },
+        "DisplayIndex": 2,
+        "Display": {
+          "X": -1280,
+          "Y": 52,
+          "Width": 1280,
+          "Height": 1024
+        }
+      }
+    },
+    {
+      "PlayerID": 1,
+      "Nickname": "Kubbo",
+      "SteamID": 76561199023125439,
+      "GamepadGuid": "00000000-0000-0000-0000-200000000003",
+      "IsDInput": false,
+      "IsXInput": true,
+      "Processor": {
+        "IdealProcessor": "*",
+        "ProcessorAffinity": "",
+        "ProcessorPriorityClass": "Normal"
+      },
+      "IsKeyboardPlayer": false,
+      "IsRawMouse": false,
+      "HIDDeviceID": [
+        "Not required",
+        "Not required"
+      ],
+      "ScreenPriority": 0,
+      "ScreenIndex": 0,
+      "EditBounds": {
+        "X": 305.0,
+        "Y": 260.0,
+        "Width": 225.0,
+        "Height": 126.5
+      },
+      "MonitorBounds": {
+        "X": 0,
+        "Y": 0,
+        "Width": 960,
+        "Height": 540
+      },
+      "Owner": {
+        "Type": 3,
+        "UiBounds": {
+          "X": 305.0,
+          "Y": 260.0,
+          "Width": 450.0,
+          "Height": 253.0
+        },
+        "DisplayIndex": 1,
+        "Display": {
+          "X": 0,
+          "Y": 0,
+          "Width": 1920,
+          "Height": 1080
+        }
+      }
+    },
+    {
+      "PlayerID": 2,
+      "Nickname": "Brenner",
+      "SteamID": 76561199023125440,
+      "GamepadGuid": "00000000-0000-0000-0000-200000000001",
+      "IsDInput": false,
+      "IsXInput": true,
+      "Processor": {
+        "IdealProcessor": "*",
+        "ProcessorAffinity": "",
+        "ProcessorPriorityClass": "Normal"
+      },
+      "IsKeyboardPlayer": false,
+      "IsRawMouse": false,
+      "HIDDeviceID": [
+        "Not required",
+        "Not required"
+      ],
+      "ScreenPriority": 0,
+      "ScreenIndex": 0,
+      "EditBounds": {
+        "X": 530.0,
+        "Y": 260.0,
+        "Width": 225.0,
+        "Height": 126.5
+      },
+      "MonitorBounds": {
+        "X": 960,
+        "Y": 0,
+        "Width": 960,
+        "Height": 540
+      },
+      "Owner": {
+        "Type": 3,
+        "UiBounds": {
+          "X": 305.0,
+          "Y": 260.0,
+          "Width": 450.0,
+          "Height": 253.0
+        },
+        "DisplayIndex": 1,
+        "Display": {
+          "X": 0,
+          "Y": 0,
+          "Width": 1920,
+          "Height": 1080
+        }
+      }
+    },
+    {
+      "PlayerID": 3,
+      "Nickname": "Galina",
+      "SteamID": 76561199023125441,
+      "GamepadGuid": "00000000-0000-0000-0000-200000000004",
+      "IsDInput": false,
+      "IsXInput": true,
+      "Processor": {
+        "IdealProcessor": "*",
+        "ProcessorAffinity": "",
+        "ProcessorPriorityClass": "Normal"
+      },
+      "IsKeyboardPlayer": false,
+      "IsRawMouse": false,
+      "HIDDeviceID": [
+        "Not required",
+        "Not required"
+      ],
+      "ScreenPriority": 0,
+      "ScreenIndex": 0,
+      "EditBounds": {
+        "X": 305.0,
+        "Y": 386.5,
+        "Width": 225.0,
+        "Height": 126.5
+      },
+      "MonitorBounds": {
+        "X": 0,
+        "Y": 540,
+        "Width": 960,
+        "Height": 540
+      },
+      "Owner": {
+        "Type": 3,
+        "UiBounds": {
+          "X": 305.0,
+          "Y": 260.0,
+          "Width": 450.0,
+          "Height": 253.0
+        },
+        "DisplayIndex": 1,
+        "Display": {
+          "X": 0,
+          "Y": 0,
+          "Width": 1920,
+          "Height": 1080
+        }
+      }
+    }
+  ],
+  "Options": {},
+  "UseNicknames": {
+    "Use": true
+  },
+  "AutoDesktopScaling": {
+    "Enabled": true
+  },
+  "UseSplitDiv": {
+    "Enabled": true,
+    "HideOnly": false,
+    "Color": "Black"
+  },
+  "CustomLayout": {
+    "Ver": 1,
+    "Hor": 1,
+    "Max": 4
+  },
+  "WindowsSetupTiming": {
+    "Time": "0"
+  },
+  "PauseBetweenInstanceLaunch": {
+    "Time": "0"
+  },
+  "Network": {
+    "Type": "Automatic"
+  },
+  "AudioSettings": {
+    "CustomSettings": false,
+    "DefaultSettings": true
+  },
+  "AudioInstances": {
+    "AudioInstance8": "Default",
+    "AudioInstance7": "Default",
+    "AudioInstance6": "Default",
+    "AudioInstance5": "Default",
+    "AudioInstance4": "Default",
+    "AudioInstance3": "Default",
+    "AudioInstance2": "Default",
+    "AudioInstance1": "Default"
+  },
+  "CutscenesModeSettings": {
+    "Cutscenes_KeepAspectRatio": false,
+    "Cutscenes_MuteAudioOnly": false,
+    "Cutscenes_Unfocus": false
+  },
+  "StopGPUINav": {
+    "Enabled": false
+  },
+  "EnableWindowsMerger": {
+    "Enabled": false
+  },
+  "MergerResolution": "2560X1440",
+  "EnableLosslessHook": {
+    "Enabled": true
+  },
+  "AllScreens": [
+    {
+      "X": 305.0,
+      "Y": 260.0,
+      "Width": 450.0,
+      "Height": 253.0
+    },
+    {
+      "X": 5.0,
+      "Y": 272.0,
+      "Width": 300.0,
+      "Height": 240.0
+    }
+  ]
+}

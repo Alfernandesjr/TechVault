@@ -1,0 +1,374 @@
+[11:36:46.517] [INF] Starting NitroxServer Alpha v1.7.1.0 for Subnautica
+[11:36:46.534] [ERR] Due to Subnautica's recent update "Living Large", Nitrox is currently not compatible. However you can still use older version of Subnautica in order to play Nitrox. You can do so by following these steps
+[11:36:46.536] [ERR] Unable to start server, Nitrox isn't compatible with this Subnautica version
+System.Exception: Unable to start server, Nitrox isn't compatible with this Subnautica version
+   at NitroxServer_Subnautica.Program.<StartServer>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NitroxServer_Subnautica.Program.<Main>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NitroxServer_Subnautica.Program.<Main>(String[] args)
+[11:36:46.538] [INF] Press L to open log file before closing. Press any other key to close . . .
+[11:37:59.658] [INF] Opening log file at: C:\Games\NucleusApp\handlers\Subnautica Nitrox\Nitrox\Nitrox Logs\server-20250614.log..
+[11:38:48.539] [INF] Starting NitroxServer Alpha v1.7.1.0 for Subnautica
+[11:38:48.554] [ERR] Due to Subnautica's recent update "Living Large", Nitrox is currently not compatible. However you can still use older version of Subnautica in order to play Nitrox. You can do so by following these steps
+[11:38:48.555] [ERR] Unable to start server, Nitrox isn't compatible with this Subnautica version
+System.Exception: Unable to start server, Nitrox isn't compatible with this Subnautica version
+   at NitroxServer_Subnautica.Program.<StartServer>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NitroxServer_Subnautica.Program.<Main>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NitroxServer_Subnautica.Program.<Main>(String[] args)
+[11:38:48.556] [INF] Press L to open log file before closing. Press any other key to close . . .
+[11:38:52.068] [INF] Starting NitroxServer Alpha v1.7.1.0 for Subnautica
+[11:38:52.083] [ERR] Due to Subnautica's recent update "Living Large", Nitrox is currently not compatible. However you can still use older version of Subnautica in order to play Nitrox. You can do so by following these steps
+[11:38:52.085] [ERR] Unable to start server, Nitrox isn't compatible with this Subnautica version
+System.Exception: Unable to start server, Nitrox isn't compatible with this Subnautica version
+   at NitroxServer_Subnautica.Program.<StartServer>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NitroxServer_Subnautica.Program.<Main>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NitroxServer_Subnautica.Program.<Main>(String[] args)
+[11:38:52.085] [INF] Press L to open log file before closing. Press any other key to close . . .
+[11:38:57.492] [INF] Starting NitroxServer Alpha v1.7.1.0 for Subnautica
+[11:38:57.507] [ERR] Due to Subnautica's recent update "Living Large", Nitrox is currently not compatible. However you can still use older version of Subnautica in order to play Nitrox. You can do so by following these steps
+[11:38:57.508] [ERR] Unable to start server, Nitrox isn't compatible with this Subnautica version
+System.Exception: Unable to start server, Nitrox isn't compatible with this Subnautica version
+   at NitroxServer_Subnautica.Program.<StartServer>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NitroxServer_Subnautica.Program.<Main>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NitroxServer_Subnautica.Program.<Main>(String[] args)
+[11:38:57.509] [INF] Press L to open log file before closing. Press any other key to close . . .
+[11:44:45.260] [INF] Starting NitroxServer Alpha v1.7.1.0 for Subnautica
+[11:44:45.284] [INF] Using game files from: c:\program files (x86)\steam\steamapps\common\Subnautica
+[11:44:49.352] [WRN] No previous save file found, creating a new one
+[11:44:49.357] [INF] Loading world with seed FXUJXYPZZL
+[11:44:49.721] [INF] Server is listening on port 11000 UDP
+[11:44:49.721] [INF] Using JSON as save file serializer
+[11:44:49.723] [INF] Server Password: "**********************"
+[11:44:49.725] [INF] Admin Password: "**************"
+[11:44:49.725] [INF] Autosave: ENABLED (2 min)
+[11:44:49.728] [INF] Loaded save
+
+ - Save location: C:\Games\NucleusApp\handlers\Subnautica Nitrox\Nitrox\world
+ - Aurora's state: explodes in 68 minutes [1/4]
+ - Current time: day 1 (480s)
+ - Scheduled goals stored: 0
+ - Story goals completed: 0
+ - Radio messages stored: 0
+ - World gamemode: SURVIVAL
+ - Story goals unlocked: 0
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 0
+ - Progress tech: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[11:44:49.729] [INF] Server has paused, waiting for players to connect
+[11:44:49.729] [INF] Server started (4.5s)
+[11:44:49.729] [INF] To get help for commands, run help in console or /help in chatbox
+[11:44:54.755] [WRN] Failed to automatically port forward 11000 UDP through UPnP. If using Hamachi or manually port-forwarding, please disregard this warning. To disable this feature you can go into the server settings.
+[11:44:54.892] [INF] Use IP to connect:
+	127.0.0.1 - You (Local)
+	*************** - Friends on another internet network (Port Forwarding)
+[11:47:01.680] [INF] Starting NitroxServer Alpha v1.7.1.0 for Subnautica
+[11:47:01.697] [INF] Using game files from: c:\program files (x86)\steam\steamapps\common\Subnautica
+[11:47:03.233] [WRN] No previous save file found, creating a new one
+[11:47:03.238] [INF] Loading world with seed SKTCEHCFDU
+[11:47:03.477] [WRN] Port 11000 UDP is already in use. Retrying for 30 seconds until it is available..
+[11:47:04.002] [ERR] The value must be greater than or equal to zero and less than the console's buffer size in that dimension.
+Parameter name: top
+Actual value was -1.
+System.ArgumentOutOfRangeException: The value must be greater than or equal to zero and less than the console's buffer size in that dimension.
+Parameter name: top
+Actual value was -1.
+   at System.Console.SetCursorPosition(Int32 left, Int32 top)
+   at NitroxServer_Subnautica.Program.<WaitForAvailablePortAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NitroxServer_Subnautica.Program.<StartServer>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NitroxServer_Subnautica.Program.<Main>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NitroxServer_Subnautica.Program.<Main>(String[] args)
+[11:47:04.002] [INF] Press L to open log file before closing. Press any other key to close . . .
+[11:48:42.948] [INF] Providing session policies...
+[11:51:46.918] [INF] Providing session policies...
+[11:52:40.772] [INF] Processing reservation request from PiolhaSeca
+[11:52:40.775] [INF] Reservation processed successfully: Username: PiolhaSeca - [MultiplayerSessionReservation: PlayerId: 1, ReservationKey: 44d52f13-9ce6-4241-9234-09c9ad3d8cff, ReservationState: RESERVED, CorrelationId: 7afda89d-1c55-4d3e-9e16-b667f6bd31f0]
+[11:52:48.406] [INF] Providing session policies...
+[11:52:53.882] [INF] Server has resumed
+[11:52:55.284] [INF] Spawning 2131 entities from 163 spawn points in batch [NitroxInt3 - 12, 18, 13]
+[11:52:55.450] [INF] Spawning 2515 entities from 180 spawn points in batch [NitroxInt3 - 12, 18, 12]
+[11:52:56.402] [INF] Spawning 1360 entities from 142 spawn points in batch [NitroxInt3 - 11, 18, 13]
+[11:52:56.604] [INF] Finished processing reservation. Remaining requests: 0
+[11:52:56.960] [INF] Spawning 1451 entities from 166 spawn points in batch [NitroxInt3 - 13, 18, 13]
+[11:52:56.974] [INF] Spawning 6 entities from 5 spawn points in batch [NitroxInt3 - 12, 17, 12]
+[11:52:57.110] [INF] Spawning 1612 entities from 177 spawn points in batch [NitroxInt3 - 13, 18, 12]
+[11:52:57.257] [INF] Spawning 1750 entities from 168 spawn points in batch [NitroxInt3 - 12, 18, 14]
+[11:52:57.350] [INF] Spawning 646 entities from 108 spawn points in batch [NitroxInt3 - 13, 18, 14]
+[11:52:57.434] [INF] Spawning 620 entities from 94 spawn points in batch [NitroxInt3 - 11, 18, 14]
+[11:52:58.602] [INF] Processing reservation request from PiolhoSeco
+[11:52:58.602] [INF] Reservation processed successfully: Username: PiolhoSeco - [MultiplayerSessionReservation: PlayerId: 2, ReservationKey: 1a2f0a5e-d2c5-4d04-b316-a80e54c33be6, ReservationState: RESERVED, CorrelationId: 9cae47ad-dc12-4f7e-b338-6213ae372be8]
+[11:53:14.711] [INF] Spawning 1235 entities from 127 spawn points in batch [NitroxInt3 - 11, 18, 12]
+[11:53:14.719] [INF] Finished processing reservation. Remaining requests: 0
+[11:53:15.323] [INF] Spawning 515 entities from 106 spawn points in batch [NitroxInt3 - 11, 17, 12]
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating e2f0cd0d-706d-7442-3a26-a036a7918360
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 14ec73d3-5eda-7b72-7058-9ae5c26619c1
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 557636cc-7c41-ca11-242b-04f93da9d2b6
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating f95e1836-8807-153c-41d1-058325d5832b
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating c01e2ff8-d37d-93c6-16dd-a81418271dc8
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 4941f62e-b48b-c0c2-8fe9-3de2217006d9
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating b71d2fb9-628c-1e2e-63a0-0d10d97c3956
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 263ec53a-121b-baca-15d4-861d69a63f41
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 15b1cb32-0079-38af-8f77-151af2f08cd1
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 56bec4e8-dc4c-4a7a-bb84-b15ee13d8099
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating f1730824-899f-b7ca-cd0f-c73878b5018c
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 1e9d9696-8179-1fe5-b4f5-c0ded7a2aea4
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating b031576d-4b32-4e91-42e4-93d109d56fdb
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 66f90d1c-93b4-343d-ae0d-67b5add4164a
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 94db4e05-14ed-df15-85e5-d1a0410d2492
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 5fa7af9a-fc22-ba6d-2e38-20169b32ffb3
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 1af70821-cfe0-9cc1-f3a1-e8d5a58b40f1
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 27fd6c3b-a564-8a29-471b-32ec82936e66
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 89310141-e8e5-802d-af61-bf18b12c7459
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 9cbcf86e-dd01-3f7b-ae54-ccfd48d37029
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating d414bc2c-5224-7c3f-7803-e610d81ba7d8
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating d2d78a7d-6464-f285-db90-1b3037dbf195
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating e6793045-fdd6-1f3d-b80c-96b54f822a94
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating f51f5dd8-7eb7-7047-bbec-c4d2fc0fba09
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating a483dc4a-9a6a-143b-2300-b84bc1c48eee
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 9fb59a8c-e323-4bfa-e084-adc61c3025f0
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 7a0cebb4-dddf-8bcc-183c-60cceb1a740a
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 66f6080b-37e2-e6c3-ed74-f8f2dbc7de61
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating ae37f60e-4699-c68b-c02b-c06034501c08
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating db834fb2-b0b6-f915-2dff-228252cf8b37
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating e821ab23-139f-b91b-ff7b-77086381d0ef
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 1251f223-23b7-9cda-e9ee-d44d20cf5e3f
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 714650bf-2b04-7085-9acc-7460202446fe
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating acaca493-936e-6175-5033-6609ae311e96
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating d3a88bd2-9bcd-2e88-2d6e-c89a726aaf2a
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 2503eb6a-c4ea-2cff-73c4-b3bbddc5bd07
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 25fc2952-eddc-35a3-de7b-0b8a8966065a
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 8b01d9f0-7611-bbfd-5136-5619e22081da
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating ed8066cd-bcfb-f454-1dd8-5715155703e0
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 5ed5c9f9-024f-22d1-39ee-9428d723740a
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 05f718d4-2dfa-5dd6-1fee-f489ed4c7304
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating fb0feb28-58a1-2401-6ff8-70838735d797
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 80e75807-83aa-c30a-0645-8b7363aa1732
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 7cf9dbd6-d317-0295-bc53-d5e9165c429f
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 4d1d508f-1d3d-6c29-fd1f-dd1da4c16b54
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating c234ba30-c3e5-ae57-20ad-aa03ecd3c1ac
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating b050f032-5cf6-b0a8-30ba-4eb70bb552b0
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 0a9d5525-34b8-d861-82ea-ee28c3f7ee40
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 4dc2fac0-3d1d-3788-89ca-38a4848dcc16
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 23e11b43-175e-5061-9441-9db0699529c1
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating e40c6c20-5e3a-d533-01eb-79e8d479428a
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 4f71f2d1-ee93-928e-815d-078f889cb802
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating ffe0756d-990d-153e-6ada-c8860b4315d6
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating f1770fc9-45dc-e34f-e9cd-b71831de7962
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 4da456dd-3365-5177-d030-1a6cf424105d
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating ae131b96-85f9-c78b-8a61-08616b18a59d
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 94170a3b-a2c0-1fe3-5bd0-8965eb9cbdd2
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating df34ceb9-17eb-a44a-7af0-094e2d0e9697
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 2bab2125-eee2-bcc4-5900-b519f558712b
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating d9899bb4-e3ec-9b8f-959f-6aa793b05233
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 1f05744f-0cc2-f699-36bf-e37af8bfcbbd
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 639e5c49-a1fe-2215-784e-7964aeb604eb
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating f49dfd9a-bb3d-418f-e52a-7acdfb8ed3bd
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 70c7caf5-4b8a-2994-b0f9-c67481e46b27
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating e042954d-6330-de32-cd06-be8b85fb8f59
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating d6a7c47c-95be-35e0-d7d1-8bf1433c93a2
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating d6fb4455-59da-32e5-21a7-7bf7bb8775d9
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating bd3b9744-ef50-886d-eaa4-d264cb8b33ef
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating df229ed8-b475-1917-e879-505cb24c8ef1
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 656ca1bb-c40d-e756-a5fb-d5b4f0d1f591
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 8c6fdad2-f0ce-19dd-9e0e-61de5467294f
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 3c4da21a-2d83-4da3-de08-c9aa7f3aac74
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 50da73b5-c69e-36af-bae6-682eb8e7e3b8
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 39c1a584-5328-c551-f2c3-2bd5036fcd01
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating a2cbc977-2d81-439e-b2ca-67d398ebc8ee
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating bbbc818d-020d-8d6e-fa12-6bb1804d4bf6
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 096e46e2-ea4c-6b94-91c9-0083f6ed361e
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 84332431-599b-e421-9e3d-05ee31a8fe26
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating a6a8a3eb-17d9-33c5-55a5-4090b280c968
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 1440868d-e8b0-f79c-987c-053e9ac5fd18
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 960dde5f-8efd-77c4-5d34-80b6d95fe79b
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 11bccfbd-2591-04a9-a77f-be423d466fa1
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 343a87eb-ef08-d07e-8139-17c5df9a6aa8
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating b12b5fb1-50bc-6fc8-2e9c-c16185add2c5
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 13d96e99-d031-af36-ae22-b08710087f93
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 651c395f-acfa-8728-8ccb-54c427e8ed6c
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 36957b0e-c2dd-b1d9-0de5-e79f7a2722c1
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating bf1ceb17-644f-aa19-9dd3-11e2b30ebeaf
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 8d9ca6f9-b899-dc2e-0eeb-2cf39213db7b
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating 467a1b01-90f5-5051-eea3-bb30faebe839
+[11:54:15.223] [INF] Player PiolhoSeco has taken over simulating c8958617-5e49-3d5a-5de4-2c411858e240
+[11:54:23.641] [INF] Server has paused, waiting for players to connect
+[11:54:23.999] [INF] World state saved
+[11:55:48.819] [INF] Starting NitroxServer Alpha v1.7.1.0 for Subnautica
+[11:55:48.839] [INF] Using game files from: c:\program files (x86)\steam\steamapps\common\Subnautica
+[11:55:50.750] [INF] Loading world with seed FXUJXYPZZL
+[11:55:51.081] [INF] Server is listening on port 11000 UDP
+[11:55:51.081] [INF] Using JSON as save file serializer
+[11:55:51.084] [INF] Server Password: "**********************"
+[11:55:51.085] [INF] Admin Password: "**************"
+[11:55:51.085] [INF] Autosave: ENABLED (2 min)
+[11:55:51.088] [INF] Loaded save
+
+ - Save location: C:\Games\NucleusApp\handlers\Subnautica Nitrox\Nitrox\world
+ - Aurora's state: explodes in 67 minutes [1/4]
+ - Current time: day 1 (570s)
+ - Scheduled goals stored: 5
+ - Story goals completed: 2
+ - Radio messages stored: 0
+ - World gamemode: SURVIVAL
+ - Story goals unlocked: 1
+ - Encyclopedia entries: 0
+ - Storage slot items: 0
+ - Inventory items: 12
+ - Progress tech: 0
+ - Known tech: 0
+ - Vehicles: 0
+
+[11:55:51.089] [INF] Server has paused, waiting for players to connect
+[11:55:51.089] [INF] Server started (2.3s)
+[11:55:51.089] [INF] To get help for commands, run help in console or /help in chatbox
+[11:55:56.106] [WRN] Failed to automatically port forward 11000 UDP through UPnP. If using Hamachi or manually port-forwarding, please disregard this warning. To disable this feature you can go into the server settings.
+[11:55:56.229] [INF] Use IP to connect:
+	127.0.0.1 - You (Local)
+	*************** - Friends on another internet network (Port Forwarding)
+[11:56:58.583] [INF] Command not found: aa
+[11:57:40.075] [INF] Starting NitroxServer Alpha v1.7.1.0 for Subnautica
+[11:57:40.092] [INF] Using game files from: c:\program files (x86)\steam\steamapps\common\Subnautica
+[11:57:41.787] [INF] Loading world with seed FXUJXYPZZL
+[11:57:42.032] [WRN] Port 11000 UDP is already in use. Retrying for 30 seconds until it is available..
+[11:57:42.549] [ERR] The value must be greater than or equal to zero and less than the console's buffer size in that dimension.
+Parameter name: top
+Actual value was -1.
+System.ArgumentOutOfRangeException: The value must be greater than or equal to zero and less than the console's buffer size in that dimension.
+Parameter name: top
+Actual value was -1.
+   at System.Console.SetCursorPosition(Int32 left, Int32 top)
+   at NitroxServer_Subnautica.Program.<WaitForAvailablePortAsync>d__6.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NitroxServer_Subnautica.Program.<StartServer>d__4.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NitroxServer_Subnautica.Program.<Main>d__3.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at NitroxServer_Subnautica.Program.<Main>(String[] args)
+[11:57:42.550] [INF] Press L to open log file before closing. Press any other key to close . . .
+[11:58:57.089] [INF] Providing session policies...
+[12:00:15.391] [INF] Providing session policies...
+[12:00:20.233] [INF] Processing reservation request from PiolhoSeco
+[12:00:20.237] [INF] Reservation processed successfully: Username: PiolhoSeco - [MultiplayerSessionReservation: PlayerId: 2, ReservationKey: 783977d9-bfcf-4a50-881c-6e0e1fa5abea, ReservationState: RESERVED, CorrelationId: 3d47c191-fec1-48eb-ae9c-34604784679c]
+[12:00:32.592] [INF] Server has resumed
+[12:00:36.642] [INF] Finished processing reservation. Remaining requests: 0
+[12:00:54.193] [INF] Providing session policies...
+[12:00:56.525] [INF] Processing reservation request from PiolhoafaSeco
+[12:00:56.526] [INF] Reservation processed successfully: Username: PiolhoafaSeco - [MultiplayerSessionReservation: PlayerId: 3, ReservationKey: 0d3e1275-9398-4ed6-8e85-c9763cab5b79, ReservationState: RESERVED, CorrelationId: e3990160-b72a-4950-b518-3bd015597f38]
+[12:01:12.187] [INF] Finished processing reservation. Remaining requests: 0
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating f1770fc9-45dc-e34f-e9cd-b71831de7962
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating d3a88bd2-9bcd-2e88-2d6e-c89a726aaf2a
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 66f90d1c-93b4-343d-ae0d-67b5add4164a
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating c234ba30-c3e5-ae57-20ad-aa03ecd3c1ac
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 8c6fdad2-f0ce-19dd-9e0e-61de5467294f
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating e6793045-fdd6-1f3d-b80c-96b54f822a94
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 89310141-e8e5-802d-af61-bf18b12c7459
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 9cbcf86e-dd01-3f7b-ae54-ccfd48d37029
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating d414bc2c-5224-7c3f-7803-e610d81ba7d8
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating ffe0756d-990d-153e-6ada-c8860b4315d6
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 94db4e05-14ed-df15-85e5-d1a0410d2492
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 4da456dd-3365-5177-d030-1a6cf424105d
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating acaca493-936e-6175-5033-6609ae311e96
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 1e9d9696-8179-1fe5-b4f5-c0ded7a2aea4
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating b031576d-4b32-4e91-42e4-93d109d56fdb
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 1af70821-cfe0-9cc1-f3a1-e8d5a58b40f1
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 05f718d4-2dfa-5dd6-1fee-f489ed4c7304
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 84332431-599b-e421-9e3d-05ee31a8fe26
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating f51f5dd8-7eb7-7047-bbec-c4d2fc0fba09
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 27fd6c3b-a564-8a29-471b-32ec82936e66
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating d2d78a7d-6464-f285-db90-1b3037dbf195
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 4dc2fac0-3d1d-3788-89ca-38a4848dcc16
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 096e46e2-ea4c-6b94-91c9-0083f6ed361e
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 14ec73d3-5eda-7b72-7058-9ae5c26619c1
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 4941f62e-b48b-c0c2-8fe9-3de2217006d9
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 7cf9dbd6-d317-0295-bc53-d5e9165c429f
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 1251f223-23b7-9cda-e9ee-d44d20cf5e3f
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 80e75807-83aa-c30a-0645-8b7363aa1732
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating ae131b96-85f9-c78b-8a61-08616b18a59d
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 94170a3b-a2c0-1fe3-5bd0-8965eb9cbdd2
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 0a9d5525-34b8-d861-82ea-ee28c3f7ee40
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating b050f032-5cf6-b0a8-30ba-4eb70bb552b0
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating a2cbc977-2d81-439e-b2ca-67d398ebc8ee
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating bbbc818d-020d-8d6e-fa12-6bb1804d4bf6
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating e2f0cd0d-706d-7442-3a26-a036a7918360
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 557636cc-7c41-ca11-242b-04f93da9d2b6
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating c01e2ff8-d37d-93c6-16dd-a81418271dc8
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating f1730824-899f-b7ca-cd0f-c73878b5018c
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating f95e1836-8807-153c-41d1-058325d5832b
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 66f6080b-37e2-e6c3-ed74-f8f2dbc7de61
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating a483dc4a-9a6a-143b-2300-b84bc1c48eee
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 714650bf-2b04-7085-9acc-7460202446fe
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 9fb59a8c-e323-4bfa-e084-adc61c3025f0
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating d6fb4455-59da-32e5-21a7-7bf7bb8775d9
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating ed8066cd-bcfb-f454-1dd8-5715155703e0
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating ae37f60e-4699-c68b-c02b-c06034501c08
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating db834fb2-b0b6-f915-2dff-228252cf8b37
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating bd3b9744-ef50-886d-eaa4-d264cb8b33ef
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 5ed5c9f9-024f-22d1-39ee-9428d723740a
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating d6a7c47c-95be-35e0-d7d1-8bf1433c93a2
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 639e5c49-a1fe-2215-784e-7964aeb604eb
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating f49dfd9a-bb3d-418f-e52a-7acdfb8ed3bd
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 1440868d-e8b0-f79c-987c-053e9ac5fd18
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 960dde5f-8efd-77c4-5d34-80b6d95fe79b
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 11bccfbd-2591-04a9-a77f-be423d466fa1
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 343a87eb-ef08-d07e-8139-17c5df9a6aa8
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating b12b5fb1-50bc-6fc8-2e9c-c16185add2c5
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 70c7caf5-4b8a-2994-b0f9-c67481e46b27
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating e042954d-6330-de32-cd06-be8b85fb8f59
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating a1c52b7a-0fc0-7705-a812-22ffe7c7f063
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 36957b0e-c2dd-b1d9-0de5-e79f7a2722c1
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 6c95bf74-5075-358f-b2c6-eca3521c56cb
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 263ec53a-121b-baca-15d4-861d69a63f41
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating b71d2fb9-628c-1e2e-63a0-0d10d97c3956
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 15b1cb32-0079-38af-8f77-151af2f08cd1
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating d9899bb4-e3ec-9b8f-959f-6aa793b05233
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 4d1d508f-1d3d-6c29-fd1f-dd1da4c16b54
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 7a0cebb4-dddf-8bcc-183c-60cceb1a740a
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 467a1b01-90f5-5051-eea3-bb30faebe839
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating c8958617-5e49-3d5a-5de4-2c411858e240
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 821a14f6-11ab-c633-56e2-aa5433ef9820
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating bf1ceb17-644f-aa19-9dd3-11e2b30ebeaf
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 8d9ca6f9-b899-dc2e-0eeb-2cf39213db7b
+[12:01:31.283] [INF] Player PiolhoafaSeco has taken over simulating 514095c9-0098-5d4d-c490-3940a59571a7
+[12:01:32.457] [INF] Server has paused, waiting for players to connect
+[12:01:32.728] [INF] World state saved

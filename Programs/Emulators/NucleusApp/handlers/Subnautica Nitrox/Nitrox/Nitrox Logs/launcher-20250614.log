@@ -1,0 +1,24 @@
+[11:37:06.933] [INF] Can't restart the launcher as administrator, we already have permissions
+[11:37:06.980] [INF] Trying to request data from https://nitrox.rux.gg/api/version/latest
+[11:37:07.045] [INF] Trying to request data from https://nitroxblog.rux.gg/wp-json/wp/v2/posts?per_page=8&page=1
+[11:37:07.049] [INF] Trying to request data from https://nitrox.rux.gg/api/changelog/releases
+[11:44:45.470] [INF] Can't restart the launcher as administrator, we already have permissions
+[11:44:45.489] [INF] Trying to request data from https://nitrox.rux.gg/api/version/latest
+[11:44:45.505] [INF] Trying to request data from https://nitroxblog.rux.gg/wp-json/wp/v2/posts?per_page=8&page=1
+[11:44:45.508] [INF] Trying to request data from https://nitrox.rux.gg/api/changelog/releases
+[11:47:43.436] [ERR] Unable to move initialization dll to Managed folder. Still attempting to launch because it might exist from previous runs.
+System.IO.IOException: A operação solicitada não pode ser executada em um arquivo com uma seção mapeada pelo usuário aberta.
+
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   em NitroxLauncher.LauncherLogic.<StartMultiplayerAsync>d__28.MoveNext()
+[11:55:48.991] [INF] Can't restart the launcher as administrator, we already have permissions
+[11:55:49.010] [INF] Trying to request data from https://nitrox.rux.gg/api/version/latest
+[11:55:49.028] [INF] Trying to request data from https://nitroxblog.rux.gg/wp-json/wp/v2/posts?per_page=8&page=1
+[11:55:49.031] [INF] Trying to request data from https://nitrox.rux.gg/api/changelog/releases
+[11:59:03.310] [ERR] Unable to move initialization dll to Managed folder. Still attempting to launch because it might exist from previous runs.
+System.IO.IOException: A operação solicitada não pode ser executada em um arquivo com uma seção mapeada pelo usuário aberta.
+
+   em System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   em System.IO.File.InternalCopy(String sourceFileName, String destFileName, Boolean overwrite, Boolean checkHost)
+   em NitroxLauncher.LauncherLogic.<StartMultiplayerAsync>d__28.MoveNext()

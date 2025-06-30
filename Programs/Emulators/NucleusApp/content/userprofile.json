@@ -1,0 +1,20 @@
+{
+  "Games": [
+    {
+      "GameGuid": "Astroneer",
+      "ExePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ASTRONEER\\Astro\\Binaries\\Win64\\Astro-Win64-Shipping.exe"
+    },
+    {
+      "GameGuid": "Dead Rising 2",
+      "ExePath": "D:\\SteamLibrary\\steamapps\\common\\Dead Rising 2\\deadrising2.exe"
+    },
+    {
+      "GameGuid": "Dead Rising 3",
+      "ExePath": "D:\\SteamLibrary\\steamapps\\common\\deadrising3\\deadrising3.exe"
+    },
+    {
+      "GameGuid": "PAYDAY 2",
+      "ExePath": "D:\\SteamLibrary\\steamapps\\common\\PAYDAY 2\\payday2_win32_release.exe"
+    }
+  ]
+}
